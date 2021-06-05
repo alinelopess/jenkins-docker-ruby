@@ -5,7 +5,7 @@ Funcionalidade: Adicionar ao carrinho
     Posso adicionar item no carrinho
     Para que eu possa ver os itens que desejo comprar
 
-    Cenario: Adicionar ao carrinho
+    Cenario: Adicionar ao carrinho Iphone
 
         Dado que encontrei o "iPhone XR" no catálogo
             E entrei na página de detalhes deste produto
