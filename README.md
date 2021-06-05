@@ -3,6 +3,10 @@ Code for the QAaninja academy "Continuous testing with jenkins and ruby" course
 
 ## How to run the project
 
+ruby (version 2.5 or higher)
+chromedriver /geckodriver
+docker
+
 ### Install Bundler
 
 gem install bundler
